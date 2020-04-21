@@ -3,8 +3,8 @@ class Artist
 
   def intiliaze(name)
     @name = name
-  end 
+  end
 
 
 
-end 
+end
