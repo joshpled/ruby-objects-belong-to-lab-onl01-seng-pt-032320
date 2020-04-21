@@ -5,6 +5,6 @@ class Post
     @title = title
   end
 
-
-
 end
+
+Post.new.author = author
