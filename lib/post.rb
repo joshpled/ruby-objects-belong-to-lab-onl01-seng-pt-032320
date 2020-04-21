@@ -3,7 +3,7 @@ class Post
 
   def intiliaze(title)
     @title = title
-    author = Author.new
+    Author.new = author
   end
 
 end
