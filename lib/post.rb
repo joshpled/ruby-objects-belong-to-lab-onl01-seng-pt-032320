@@ -6,5 +6,3 @@ class Post
   end
 
 end
-
-Post.new.author = author
